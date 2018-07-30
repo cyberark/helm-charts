@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  conjur-oss:
+  - apiVersion: v1
+    created: 2018-07-30T17:03:41.261723967-05:00
+    description: A Helm chart for CyberArk Conjur
+    digest: d4fe2ce5d44130a55b31ebbe0e67d6a712b0103d49dbb8f9b753b59a14cfe3fb
+    home: https://www.conjur.org
+    icon: https://xebialabs-clients-iglusjax.stackpathdns.com/assets/files/logos/CyberArkConjurLogoWhiteBlue.png
+    keywords:
+    - security
+    - secrets management
+    maintainers:
+    - email: dustin.collins@cyberark.com
+      name: Dustin Collins
+    name: conjur-oss
+    sources:
+    - https://github.com/cyberark/conjur-oss-helm-chart
+    - https://github.com/cyberark/conjur
+    urls:
+    - conjur-oss-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-07-30T17:03:41.259355589-05:00
