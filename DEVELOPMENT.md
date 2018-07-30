@@ -7,5 +7,5 @@ https://github.com/helm/helm/blob/master/docs/chart_repository.md.
 
 1. Build your package tgz (`helm package`).
 2. Copy that tgz to the docs/ directory in this project.
-3. Run `helm repo index docs --url https://cyberark.github.com/helm-charts`
+3. Run `helm repo index docs --url https://cyberark.github.io/helm-charts`
 4. Commit and push your changes.
