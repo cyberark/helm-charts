@@ -5,5 +5,17 @@
   <body>
     <h1>CyberArk Helm Chart Repository</h1>
     <p>Point Helm at this repository to see charts.</p>
+
+    <hr>
+
+    <pre>
+      # Add this repo
+      $ helm repo add cyberark https://cyberark.github.io/helm-charts
+      "cyberark" has been added to your repositories
+
+      # Search for Charts
+      $ helm search -r 'cyberark/*'
+      cyberark/conjur-oss 0.2.0                      A Helm chart for CyberArk Conjur
+    </pre>
   </body>
 </html>
