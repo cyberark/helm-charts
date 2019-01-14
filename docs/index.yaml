@@ -2,7 +2,26 @@ apiVersion: v1
 entries:
   conjur-oss:
   - apiVersion: v1
-    created: 2018-08-01T15:42:04.633152422-05:00
+    created: 2019-01-14T14:17:04.008099-06:00
+    description: A Helm chart for CyberArk Conjur
+    digest: a8bb26235da139e6dc06d28d89a94f1e1eab1774ce44f51f45660b3dc995d2aa
+    home: https://www.conjur.org
+    icon: https://xebialabs-clients-iglusjax.stackpathdns.com/assets/files/logos/CyberArkConjurLogoWhiteBlue.png
+    keywords:
+    - security
+    - secrets management
+    maintainers:
+    - email: conj_maintainers@cyberark.com
+      name: Conjur Maintainers
+    name: conjur-oss
+    sources:
+    - https://github.com/cyberark/conjur-oss-helm-chart
+    - https://github.com/cyberark/conjur
+    urls:
+    - https://cyberark.github.io/helm-charts/conjur-oss-1.3.4.tgz
+    version: 1.3.4
+  - apiVersion: v1
+    created: 2019-01-14T14:17:04.006724-06:00
     description: A Helm chart for CyberArk Conjur
     digest: 380e7ea1e512b73fb8b892e413fda57bb34b6ce30cc65574324af2fb117974fa
     home: https://www.conjur.org
@@ -21,7 +40,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v1
-    created: 2018-08-01T15:42:04.63260941-05:00
+    created: 2019-01-14T14:17:04.005378-06:00
     description: A Helm chart for CyberArk Conjur
     digest: c2e716569c63a5ea23dcb7203c5a2cf65e382034d00288730104997a546906b9
     home: https://www.conjur.org
@@ -40,7 +59,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: 2018-08-01T15:42:04.631820155-05:00
+    created: 2019-01-14T14:17:04.004043-06:00
     description: A Helm chart for CyberArk Conjur
     digest: d4fe2ce5d44130a55b31ebbe0e67d6a712b0103d49dbb8f9b753b59a14cfe3fb
     home: https://www.conjur.org
@@ -58,4 +77,4 @@ entries:
     urls:
     - https://cyberark.github.io/helm-charts/conjur-oss-0.1.0.tgz
     version: 0.1.0
-generated: 2018-08-01T15:42:04.626229868-05:00
+generated: 2019-01-14T14:17:03.999944-06:00
