@@ -2,7 +2,26 @@ apiVersion: v1
 entries:
   conjur-oss:
   - apiVersion: v1
-    created: 2019-01-22T16:49:41.384291-06:00
+    created: 2019-02-01T10:03:09.750165-06:00
+    description: A Helm chart for CyberArk Conjur
+    digest: c9a7b43fd6657a1325fd7b16729e0b6df41068c3efe829d2e049d581f3c64dec
+    home: https://www.conjur.org
+    icon: https://xebialabs-clients-iglusjax.stackpathdns.com/assets/files/logos/CyberArkConjurLogoWhiteBlue.png
+    keywords:
+    - security
+    - secrets management
+    maintainers:
+    - email: conj_maintainers@cyberark.com
+      name: Conjur Maintainers
+    name: conjur-oss
+    sources:
+    - https://github.com/cyberark/conjur-oss-helm-chart
+    - https://github.com/cyberark/conjur
+    urls:
+    - https://cyberark.github.io/helm-charts/conjur-oss-1.3.7.tgz
+    version: 1.3.7
+  - apiVersion: v1
+    created: 2019-02-01T10:03:09.748895-06:00
     description: A Helm chart for CyberArk Conjur
     digest: fc4cbde42cfb10f89b1a6d8929370a140b840243e5568257b8150b48b399323c
     home: https://www.conjur.org
@@ -21,7 +40,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-1.3.6.tgz
     version: 1.3.6
   - apiVersion: v1
-    created: 2019-01-22T16:49:41.382359-06:00
+    created: 2019-02-01T10:03:09.746891-06:00
     description: A Helm chart for CyberArk Conjur
     digest: bcc9a789da1ff4000168f4d609e43cb8f2443ca3ea4ce57d92928d0d72676202
     home: https://www.conjur.org
@@ -40,7 +59,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-1.3.5.tgz
     version: 1.3.5
   - apiVersion: v1
-    created: 2019-01-22T16:49:41.380504-06:00
+    created: 2019-02-01T10:03:09.744623-06:00
     description: A Helm chart for CyberArk Conjur
     digest: 1c5cb09b615df22e262a3f97e525719d2323ce4d52ee5c84ed8aa954ca2e8c95
     home: https://www.conjur.org
@@ -59,7 +78,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-1.3.4.tgz
     version: 1.3.4
   - apiVersion: v1
-    created: 2019-01-22T16:49:41.378353-06:00
+    created: 2019-02-01T10:03:09.743111-06:00
     description: A Helm chart for CyberArk Conjur
     digest: 380e7ea1e512b73fb8b892e413fda57bb34b6ce30cc65574324af2fb117974fa
     home: https://www.conjur.org
@@ -78,7 +97,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v1
-    created: 2019-01-22T16:49:41.376056-06:00
+    created: 2019-02-01T10:03:09.741777-06:00
     description: A Helm chart for CyberArk Conjur
     digest: c2e716569c63a5ea23dcb7203c5a2cf65e382034d00288730104997a546906b9
     home: https://www.conjur.org
@@ -97,7 +116,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: 2019-01-22T16:49:41.373989-06:00
+    created: 2019-02-01T10:03:09.74047-06:00
     description: A Helm chart for CyberArk Conjur
     digest: d4fe2ce5d44130a55b31ebbe0e67d6a712b0103d49dbb8f9b753b59a14cfe3fb
     home: https://www.conjur.org
@@ -115,4 +134,4 @@ entries:
     urls:
     - https://cyberark.github.io/helm-charts/conjur-oss-0.1.0.tgz
     version: 0.1.0
-generated: 2019-01-22T16:49:41.372054-06:00
+generated: 2019-02-01T10:03:09.736894-06:00
