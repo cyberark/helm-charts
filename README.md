@@ -20,6 +20,26 @@ Update Complete. ⎈ Happy Helming!⎈
 
 ## View all CyberArk charts
 
+### Helm 3+
+
+```sh-session
+$ helm search repo cyberark
+NAME                    CHART VERSION   APP VERSION     DESCRIPTION                     
+cyberark/conjur-oss     1.3.8                           A Helm chart for CyberArk Conjur
+
+$ helm search repo -l cyberark/conjur-oss
+NAME                    CHART VERSION   APP VERSION     DESCRIPTION                     
+cyberark/conjur-oss     1.3.8                           A Helm chart for CyberArk Conjur
+cyberark/conjur-oss     1.3.7                           A Helm chart for CyberArk Conjur
+cyberark/conjur-oss     1.3.6                           A Helm chart for CyberArk Conjur
+cyberark/conjur-oss     1.3.5                           A Helm chart for CyberArk Conjur
+cyberark/conjur-oss     1.3.4                           A Helm chart for CyberArk Conjur
+cyberark/conjur-oss     0.2.1                           A Helm chart for CyberArk Conjur
+cyberark/conjur-oss     0.2.0                           A Helm chart for CyberArk Conjur
+cyberark/conjur-oss     0.1.0                           A Helm chart for CyberArk Conjur
+```
+
+### Helm 2
 ```sh-session
 $ helm search -r 'cyberark/*'
 NAME                CHART VERSION	APP VERSION DESCRIPTION
@@ -28,6 +48,25 @@ cyberark/conjur-oss 0.1.0                      A Helm chart for CyberArk Conjur
 
 ## Inspect and install a chart
 
+### Helm 3+
+```sh-session
+$ helm inspect chart cyberark/conjur-oss
+apiVersion: v1
+description: A Helm chart for CyberArk Conjur
+home: https://www.conjur.org
+...
+$ helm install conjur-oss \
+  --set dataKey="$(docker run --rm cyberark/conjur data-key generate)" \
+  cyberark/conjur-oss
+NAME: conjur-oss
+LAST DEPLOYED: Mon Dec 23 11:40:04 2019
+NAMESPACE: default
+STATUS: deployed
+REVISION: 1
+...
+```
+
+### Helm 2
 ```sh-session
 $ helm inspect cyberark/conjur-oss
 apiVersion: v1
