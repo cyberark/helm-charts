@@ -25,10 +25,11 @@ Update Complete. ⎈ Happy Helming!⎈
 ```sh-session
 $ helm search repo cyberark
 NAME                    CHART VERSION   APP VERSION     DESCRIPTION                     
-cyberark/conjur-oss     2.0.0                           A Helm chart for CyberArk Conjur
+cyberark/conjur-oss     2.0.1                           A Helm chart for CyberArk Conjur
 
 $ helm search repo -l cyberark/conjur-oss
 NAME                    CHART VERSION   APP VERSION     DESCRIPTION                     
+cyberark/conjur-oss     2.0.1                           A Helm chart for CyberArk Conjur
 cyberark/conjur-oss     2.0.0                           A Helm chart for CyberArk Conjur
 cyberark/conjur-oss     1.3.8                           A Helm chart for CyberArk Conjur
 cyberark/conjur-oss     1.3.7                           A Helm chart for CyberArk Conjur
@@ -44,7 +45,7 @@ cyberark/conjur-oss     0.1.0                           A Helm chart for CyberAr
 ```sh-session
 $ helm search -r 'cyberark/*'
 NAME                CHART VERSION	APP VERSION DESCRIPTION
-cyberark/conjur-oss 2.0.0                      A Helm chart for CyberArk Conjur
+cyberark/conjur-oss 2.0.1                      A Helm chart for CyberArk Conjur
 ```
 
 ## Inspect and install a chart
