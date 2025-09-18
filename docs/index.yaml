@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   conjur-config-cluster-prep:
   - apiVersion: v2
-    created: "2025-04-01T16:35:37.179672-06:00"
+    created: "2025-09-18T11:43:50.444923+01:00"
     description: A Helm chart for preparing a Kubernetes cluster to use the Conjur
       Kubernetes authenticator (authn-k8s)
     digest: da1e39feee601f25336ad7a07302fe9c4115dd4ddd21a831dbcfd12a84a17854
@@ -23,7 +23,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-config-cluster-prep-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v2
-    created: "2025-04-01T16:35:37.177901-06:00"
+    created: "2025-09-18T11:43:50.443244+01:00"
     description: A Helm chart for preparing a Kubernetes cluster to use the Conjur
       Kubernetes authenticator (authn-k8s)
     digest: 2f385cd0a931f947b3e85bda2f9dc94d051398fe4376fb9c87f0d99680672d4e
@@ -44,7 +44,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-config-cluster-prep-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
-    created: "2025-04-01T16:35:37.176145-06:00"
+    created: "2025-09-18T11:43:50.441601+01:00"
     description: A Helm chart for preparing a Kubernetes cluster to use the Conjur
       Kubernetes authenticator (authn-k8s)
     digest: 2f3b0556f903f005a08e68d0a9882bec72f643cec8226ba964ab6fcff002dc99
@@ -65,7 +65,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-config-cluster-prep-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
-    created: "2025-04-01T16:35:37.174566-06:00"
+    created: "2025-09-18T11:43:50.439599+01:00"
     description: A Helm chart for preparing a Kubernetes cluster to use the Conjur
       Kubernetes authenticator (authn-k8s)
     digest: 23fd5db76030b392e276aac3f0138711e2cdf80677e14ee07b4ce9dea1ba3cbf
@@ -87,7 +87,7 @@ entries:
     version: 0.1.0
   conjur-config-namespace-prep:
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.18241-06:00"
+    created: "2025-09-18T11:43:50.447493+01:00"
     description: A Helm chart which prepares a Namespace for using CyberArk Conjur
       authenticator clients
     digest: adae7b148d55329280fc47286b8a9a79bf7b3fba8b81abc00919c731a42c6d6a
@@ -108,7 +108,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-config-namespace-prep-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.181465-06:00"
+    created: "2025-09-18T11:43:50.446561+01:00"
     description: A Helm chart which prepares a Namespace for using CyberArk Conjur
       authenticator clients
     digest: 647a267e17fe33b33f719152d6f69b1d289171f3319c8b17ea539e0e65002d08
@@ -129,7 +129,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-config-namespace-prep-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.180518-06:00"
+    created: "2025-09-18T11:43:50.44566+01:00"
     description: A Helm chart which prepares a Namespace for using CyberArk Conjur
       authenticator clients
     digest: 9c4dde4e6a37afddbe72c2053039e25c142b117a05a61af106a01d55720aab7f
@@ -151,7 +151,7 @@ entries:
     version: 0.1.0
   conjur-k8s-csi-provider:
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.187177-06:00"
+    created: "2025-09-18T11:43:50.452266+01:00"
     description: A Helm chart for deploying CyberArk Conjur's CSI Driver Provider
     digest: 3879dcc8519ab8418fcfcdff0ee7ca1c85cd4f09d0f5f24c8b9baacbcafad49a
     home: https://github.com/cyberark/conjur-k8s-csi-provider
@@ -161,7 +161,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-k8s-csi-provider-0.2.4.tgz
     version: 0.2.4
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.186726-06:00"
+    created: "2025-09-18T11:43:50.451553+01:00"
     description: A Helm chart for deploying CyberArk Conjur's CSI Driver Provider
     digest: 7ff43f6daf5cd4cf937ebf885943a78204979b1d77f3f63ad0224559caa0c391
     home: https://github.com/cyberark/conjur-k8s-csi-provider
@@ -171,7 +171,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-k8s-csi-provider-0.2.3.tgz
     version: 0.2.3
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.186198-06:00"
+    created: "2025-09-18T11:43:50.450802+01:00"
     description: A Helm chart for deploying CyberArk Conjur's CSI Driver Provider
     digest: 71ab6d4ef308c5b7fd72ab7bb99049fc695994d7518666f46deb3828826b8b92
     home: https://github.com/cyberark/conjur-k8s-csi-provider
@@ -181,7 +181,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-k8s-csi-provider-0.2.2.tgz
     version: 0.2.2
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.185368-06:00"
+    created: "2025-09-18T11:43:50.450137+01:00"
     description: A Helm chart for deploying CyberArk Conjur's CSI Driver Provider
     digest: dcdf5185d2c80cdb5eb2f2563f33b078a3ed9be8bbd10ffe8abab26dd8d0a433
     home: https://github.com/cyberark/conjur-k8s-csi-provider
@@ -191,7 +191,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-k8s-csi-provider-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.18463-06:00"
+    created: "2025-09-18T11:43:50.44956+01:00"
     description: A Helm chart for deploying CyberArk Conjur's CSI Driver Provider
     digest: 677edd50ba5a1384316b902803e000d4bd7adb207b163b1f111e623eaebc0995
     home: https://github.com/cyberark/conjur-k8s-csi-provider
@@ -201,7 +201,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-k8s-csi-provider-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.184002-06:00"
+    created: "2025-09-18T11:43:50.448795+01:00"
     description: A Helm chart for deploying CyberArk Conjur's CSI Driver Provider
     digest: 0c9154f2bf4ae8ae16ddf3bb602ea2d61251c2360e62abd5018e899b4c07882d
     home: https://github.com/cyberark/conjur-k8s-csi-provider
@@ -211,7 +211,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-k8s-csi-provider-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.183216-06:00"
+    created: "2025-09-18T11:43:50.448107+01:00"
     description: A Helm chart for deploying CyberArk Conjur's CSI Driver Provider
     digest: 49d2841770a068cdeeb0925a53fac8381e880695e515b6d12beee18600f6c0d4
     home: https://github.com/cyberark/conjur-k8s-csi-provider
@@ -222,7 +222,26 @@ entries:
     version: 0.0.1
   conjur-oss:
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.203382-06:00"
+    created: "2025-09-18T11:43:50.468374+01:00"
+    description: A Helm chart for CyberArk Conjur
+    digest: a0357ba2361a2af12a5728e9419e2baadb0a184421fbf957f8db2eee6b73e407
+    home: https://www.conjur.org
+    icon: https://www.cyberark.com/wp-content/uploads/2015/12/cybr-aim.jpg
+    keywords:
+    - security
+    - secrets management
+    maintainers:
+    - email: conj_maintainers@cyberark.com
+      name: Conjur Maintainers
+    name: conjur-oss
+    sources:
+    - https://github.com/cyberark/conjur-oss-helm-chart
+    - https://github.com/cyberark/conjur
+    urls:
+    - https://cyberark.github.io/helm-charts/conjur-oss-2.1.0.tgz
+    version: 2.1.0
+  - apiVersion: v1
+    created: "2025-09-18T11:43:50.467082+01:00"
     description: A Helm chart for CyberArk Conjur
     digest: cfd6b2350827b5de271cdc86881fff35d91609845a6561274003e7dbe8b82ca7
     home: https://www.conjur.org
@@ -241,7 +260,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-2.0.7.tgz
     version: 2.0.7
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.202016-06:00"
+    created: "2025-09-18T11:43:50.465786+01:00"
     description: A Helm chart for CyberArk Conjur
     digest: 28f1b86e9ef3a6c479e071d26be068d59ca2ef0447613470f2a5f9231be01e0f
     home: https://www.conjur.org
@@ -260,7 +279,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-2.0.6.tgz
     version: 2.0.6
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.20077-06:00"
+    created: "2025-09-18T11:43:50.464798+01:00"
     description: A Helm chart for CyberArk Conjur
     digest: e01b451b79b0b971a86a70e1db3278e2b1dbb89fd3cfdaba5cbc92e2c9d36eb0
     home: https://www.conjur.org
@@ -279,7 +298,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-2.0.5.tgz
     version: 2.0.5
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.199569-06:00"
+    created: "2025-09-18T11:43:50.463567+01:00"
     description: A Helm chart for CyberArk Conjur
     digest: 076598f8b411278188f4cf7b997f71c86118b203fe2a6b09213cb2f9c076bb0f
     home: https://www.conjur.org
@@ -298,7 +317,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-2.0.4.tgz
     version: 2.0.4
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.19835-06:00"
+    created: "2025-09-18T11:43:50.462319+01:00"
     description: A Helm chart for CyberArk Conjur
     digest: b70bbe4b4e29a4f474292d33314c4387d7449cd976078bed47cfdfd9562f2dd1
     home: https://www.conjur.org
@@ -317,7 +336,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-2.0.3.tgz
     version: 2.0.3
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.196979-06:00"
+    created: "2025-09-18T11:43:50.460928+01:00"
     description: A Helm chart for CyberArk Conjur
     digest: 3ed960f8335e811b7f419ebee3f41efd98ef6abd0031bda8348852095e5b59e1
     home: https://www.conjur.org
@@ -336,7 +355,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-2.0.2.tgz
     version: 2.0.2
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.195612-06:00"
+    created: "2025-09-18T11:43:50.459682+01:00"
     description: A Helm chart for CyberArk Conjur
     digest: 3d2d0bc83d9f93297f0579786fa377d78689ff131dc58f496d231fc021415d0a
     home: https://www.conjur.org
@@ -355,7 +374,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-2.0.1.tgz
     version: 2.0.1
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.194374-06:00"
+    created: "2025-09-18T11:43:50.45847+01:00"
     description: A Helm chart for CyberArk Conjur
     digest: d33335cfe66f2f043f62f17d27d7f330e1f9cc74f602fa3d1f747cd335131d8d
     home: https://www.conjur.org
@@ -374,7 +393,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.193056-06:00"
+    created: "2025-09-18T11:43:50.457279+01:00"
     description: A Helm chart for CyberArk Conjur
     digest: 4393856afa0b4f08bf7a40fd524ab00a1805f19b9f6052bf0750fafaab361292
     home: https://www.conjur.org
@@ -393,7 +412,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-1.3.8.tgz
     version: 1.3.8
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.192446-06:00"
+    created: "2025-09-18T11:43:50.456602+01:00"
     description: A Helm chart for CyberArk Conjur
     digest: c9a7b43fd6657a1325fd7b16729e0b6df41068c3efe829d2e049d581f3c64dec
     home: https://www.conjur.org
@@ -412,7 +431,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-1.3.7.tgz
     version: 1.3.7
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.191736-06:00"
+    created: "2025-09-18T11:43:50.455909+01:00"
     description: A Helm chart for CyberArk Conjur
     digest: fc4cbde42cfb10f89b1a6d8929370a140b840243e5568257b8150b48b399323c
     home: https://www.conjur.org
@@ -431,7 +450,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-1.3.6.tgz
     version: 1.3.6
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.191171-06:00"
+    created: "2025-09-18T11:43:50.455337+01:00"
     description: A Helm chart for CyberArk Conjur
     digest: bcc9a789da1ff4000168f4d609e43cb8f2443ca3ea4ce57d92928d0d72676202
     home: https://www.conjur.org
@@ -450,7 +469,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-1.3.5.tgz
     version: 1.3.5
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.19032-06:00"
+    created: "2025-09-18T11:43:50.454744+01:00"
     description: A Helm chart for CyberArk Conjur
     digest: 1c5cb09b615df22e262a3f97e525719d2323ce4d52ee5c84ed8aa954ca2e8c95
     home: https://www.conjur.org
@@ -469,7 +488,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-1.3.4.tgz
     version: 1.3.4
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.18916-06:00"
+    created: "2025-09-18T11:43:50.454009+01:00"
     description: A Helm chart for CyberArk Conjur
     digest: 380e7ea1e512b73fb8b892e413fda57bb34b6ce30cc65574324af2fb117974fa
     home: https://www.conjur.org
@@ -488,7 +507,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.188365-06:00"
+    created: "2025-09-18T11:43:50.453429+01:00"
     description: A Helm chart for CyberArk Conjur
     digest: c2e716569c63a5ea23dcb7203c5a2cf65e382034d00288730104997a546906b9
     home: https://www.conjur.org
@@ -507,7 +526,7 @@ entries:
     - https://cyberark.github.io/helm-charts/conjur-oss-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.187691-06:00"
+    created: "2025-09-18T11:43:50.45274+01:00"
     description: A Helm chart for CyberArk Conjur
     digest: d4fe2ce5d44130a55b31ebbe0e67d6a712b0103d49dbb8f9b753b59a14cfe3fb
     home: https://www.conjur.org
@@ -528,7 +547,7 @@ entries:
   cyberark-sidecar-injector:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2025-04-01T16:35:37.20443-06:00"
+    created: "2025-09-18T11:43:50.46915+01:00"
     description: A Helm chart for deploying CyberArk sidecar injector mutating admission
       webhook
     digest: ed3a32e1868f8b7df5df1b0e3982e7fc343d3c11f4e4472b39f760426fea0637
@@ -538,7 +557,7 @@ entries:
     version: 0.2.0-alpha
   secrets-provider:
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.217666-06:00"
+    created: "2025-09-18T11:43:50.47876+01:00"
     description: A Helm chart for deploying CyberArk Secrets Provider for Kubernetes
     digest: 36e2f8f86f67cd98b764edd87618125b3691fa92e1b3d8f00c80daa94397a9ec
     home: https://github.com/cyberark/secrets-provider-for-k8s
@@ -548,7 +567,7 @@ entries:
     - https://cyberark.github.io/helm-charts/secrets-provider-1.7.4.tgz
     version: 1.7.4
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.217043-06:00"
+    created: "2025-09-18T11:43:50.47822+01:00"
     description: A Helm chart for deploying CyberArk Secrets Provider for Kubernetes
     digest: 2aa315b720ca1d29ee3d5164b6cd7f148c2e919b4f6891240d402433529f996b
     home: https://github.com/cyberark/secrets-provider-for-k8s
@@ -558,7 +577,7 @@ entries:
     - https://cyberark.github.io/helm-charts/secrets-provider-1.6.5.tgz
     version: 1.6.5
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.2164-06:00"
+    created: "2025-09-18T11:43:50.477657+01:00"
     description: A Helm chart for deploying CyberArk Secrets Provider for Kubernetes
     digest: 7c8fc4bbce5796878809096ae7eea87f0e94885f9c8380dbb237a2dd4b03af98
     home: https://github.com/cyberark/secrets-provider-for-k8s
@@ -568,7 +587,7 @@ entries:
     - https://cyberark.github.io/helm-charts/secrets-provider-1.5.1.tgz
     version: 1.5.1
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.215843-06:00"
+    created: "2025-09-18T11:43:50.477079+01:00"
     description: A Helm chart for deploying CyberArk Secrets Provider for Kubernetes
     digest: a4d21c03786862abda55c724101dca95f2f05b840f6e0d0f5a18738732f89807
     home: https://github.com/cyberark/secrets-provider-for-k8s
@@ -578,7 +597,7 @@ entries:
     - https://cyberark.github.io/helm-charts/secrets-provider-1.5.0.tgz
     version: 1.5.0
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.215221-06:00"
+    created: "2025-09-18T11:43:50.476539+01:00"
     description: A Helm chart for deploying CyberArk Secrets Provider for Kubernetes
     digest: 98262d73d4ac39d9bf36ea6667f408bbbf82cf7fc0e68cffde6c6a987c04acfc
     home: https://github.com/cyberark/secrets-provider-for-k8s
@@ -588,7 +607,7 @@ entries:
     - https://cyberark.github.io/helm-charts/secrets-provider-1.4.6.tgz
     version: 1.4.6
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.214458-06:00"
+    created: "2025-09-18T11:43:50.47602+01:00"
     description: A Helm chart for deploying CyberArk Secrets Provider for Kubernetes
     digest: e0f23cdb9c75d0d1a313245dd169004ec87fba7ec550c8a8cc191885db793b4d
     home: https://github.com/cyberark/secrets-provider-for-k8s
@@ -598,7 +617,7 @@ entries:
     - https://cyberark.github.io/helm-charts/secrets-provider-1.4.5.tgz
     version: 1.4.5
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.21368-06:00"
+    created: "2025-09-18T11:43:50.475486+01:00"
     description: A Helm chart for deploying CyberArk Secrets Provider for Kubernetes
     digest: 81cfeb4bd63306456d73b5bb00de0a6422782646299c3ffde37d6a6fe822e551
     home: https://github.com/cyberark/secrets-provider-for-k8s
@@ -608,7 +627,7 @@ entries:
     - https://cyberark.github.io/helm-charts/secrets-provider-1.4.3.tgz
     version: 1.4.3
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.212906-06:00"
+    created: "2025-09-18T11:43:50.475011+01:00"
     description: A Helm chart for deploying CyberArk Secrets Provider for Kubernetes
     digest: 224d98350bca49f86954bb97022e3d42e6dda6849a4f1b60f4654ed67c0e61b0
     home: https://github.com/cyberark/secrets-provider-for-k8s
@@ -618,7 +637,7 @@ entries:
     - https://cyberark.github.io/helm-charts/secrets-provider-1.4.1.tgz
     version: 1.4.1
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.21214-06:00"
+    created: "2025-09-18T11:43:50.474554+01:00"
     description: A Helm chart for deploying CyberArk Secrets Provider for Kubernetes
     digest: 563e33032e68403690402f6d58d30d3b9898695aba1364b31aa948821cdf9f4a
     home: https://github.com/cyberark/secrets-provider-for-k8s
@@ -628,7 +647,7 @@ entries:
     - https://cyberark.github.io/helm-charts/secrets-provider-1.4.0.tgz
     version: 1.4.0
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.211352-06:00"
+    created: "2025-09-18T11:43:50.4741+01:00"
     description: A Helm chart for deploying CyberArk Secrets Provider for Kubernetes
     digest: d3b8ec2e776947d47b6fc32122554526af4921d6622a6999e4f4ab7c6ba61de4
     home: https://github.com/cyberark/secrets-provider-for-k8s
@@ -638,7 +657,7 @@ entries:
     - https://cyberark.github.io/helm-charts/secrets-provider-1.3.0.tgz
     version: 1.3.0
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.210595-06:00"
+    created: "2025-09-18T11:43:50.473669+01:00"
     description: A Helm chart for deploying CyberArk Secrets Provider for Kubernetes
     digest: df18f922b6893062b302a1b02760665403ac44d55ab6a29339c8571f06582abf
     home: https://github.com/cyberark/secrets-provider-for-k8s
@@ -648,7 +667,7 @@ entries:
     - https://cyberark.github.io/helm-charts/secrets-provider-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.209863-06:00"
+    created: "2025-09-18T11:43:50.473232+01:00"
     description: A Helm chart for deploying CyberArk Secrets Provider for Kubernetes
     digest: a6801d0494ca59f79fa81b85d22f95f6082f2d9be73f3f0e8533b82bfcabb02d
     home: https://github.com/cyberark/secrets-provider-for-k8s
@@ -658,7 +677,7 @@ entries:
     - https://cyberark.github.io/helm-charts/secrets-provider-1.1.6.tgz
     version: 1.1.6
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.209274-06:00"
+    created: "2025-09-18T11:43:50.472607+01:00"
     description: A Helm chart for deploying CyberArk Secrets Provider for Kubernetes
     digest: e7b16ce42df1b16c7b8af370661728189de102703723c7ee5311fc2d3667f273
     home: https://github.com/cyberark/secrets-provider-for-k8s
@@ -668,7 +687,7 @@ entries:
     - https://cyberark.github.io/helm-charts/secrets-provider-1.1.6-alpha.tgz
     version: 1.1.6-alpha
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.208516-06:00"
+    created: "2025-09-18T11:43:50.47197+01:00"
     description: A Helm chart for deploying CyberArk Secrets Provider for Kubernetes
     digest: 4d1e0422ee480cf24a32512ac434d35b63e5a02b2e8e5dca72902ab3cffebd5f
     home: https://github.com/cyberark/secrets-provider-for-k8s
@@ -678,7 +697,7 @@ entries:
     - https://cyberark.github.io/helm-charts/secrets-provider-1.1.5.tgz
     version: 1.1.5
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.207634-06:00"
+    created: "2025-09-18T11:43:50.47135+01:00"
     description: A Helm chart for deploying CyberArk Secrets Provider for Kubernetes
     digest: 9201819f008844d6eb28d3bef01584ae17920e3c434200dac5a565a05a8faa8c
     home: https://github.com/cyberark/secrets-provider-for-k8s
@@ -687,7 +706,7 @@ entries:
     - https://cyberark.github.io/helm-charts/secrets-provider-1.1.4.tgz
     version: 1.1.4
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.206939-06:00"
+    created: "2025-09-18T11:43:50.470968+01:00"
     description: A Helm chart for deploying CyberArk Secrets Provider for Kubernetes
     digest: ce35407b5c3f9881df95c5c3b9f7763096a69c35c81fd61b1ecfa0b47ccd68ec
     home: https://github.com/cyberark/secrets-provider-for-k8s
@@ -696,7 +715,7 @@ entries:
     - https://cyberark.github.io/helm-charts/secrets-provider-1.1.3.tgz
     version: 1.1.3
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.205892-06:00"
+    created: "2025-09-18T11:43:50.470399+01:00"
     description: A Helm chart for deploying CyberArk Secrets Provider for Kubernetes
     digest: aa96e8f3e0cc4667da1385e311dc4fa3482f99dcb458a41f7d946785152930ac
     home: https://github.com/cyberark/secrets-provider-for-k8s
@@ -705,7 +724,7 @@ entries:
     - https://cyberark.github.io/helm-charts/secrets-provider-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v1
-    created: "2025-04-01T16:35:37.205298-06:00"
+    created: "2025-09-18T11:43:50.469752+01:00"
     description: A Helm chart for deploying CyberArk Secrets Provider for Kubernetes
     digest: ff19fc8fb55bb55ac94bcdf88643f446db9902fb6bbd3c33678d54d6fe4714d8
     home: https://github.com/cyberark/secrets-provider-for-k8s
@@ -713,4 +732,4 @@ entries:
     urls:
     - https://cyberark.github.io/helm-charts/secrets-provider-1.1.0.tgz
     version: 1.1.0
-generated: "2025-04-01T16:35:37.172661-06:00"
+generated: "2025-09-18T11:43:50.437457+01:00"
