@@ -1,3 +1,3 @@
 #!/bin/bash -e
 
-helm repo index docs --url https://cyberark.github.io/helm-charts
+helm repo index docs --url https://cyberark.github.io/helm-charts --merge docs/index.yaml
